@@ -44,3 +44,4 @@ This document describes the process of performing classification on a stock data
     further tuning or using more sophisticated models like Random Forest or Gradient Boosting. Additionally, the imbalance in the target categories suggests that resampling techniques
     or feature engineering might improve performance.
 
+Here is the Google Colab link: https://colab.research.google.com/drive/1Dvk3JvY-abkShvKpJeB17fGonTzROP8y?usp=sharing
